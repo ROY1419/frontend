@@ -2,7 +2,7 @@ import React from 'react'
 import { Outlet } from 'react-router-dom'
 import Header from './Header'
 
-const index = () => {
+const Admin  = () => {
   return (
     <div>
         <Header />
@@ -11,4 +11,4 @@ const index = () => {
   )
 }
 
-export default index
+export default Admin;

@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Header = () => {
+const UserHeader = () => {
   return (
-    <div>Header</div>
+    <div>UserHeader</div>
   )
 }
 
-export default Header;
+export default UserHeader;
